@@ -1,4 +1,4 @@
-package com.keroles;
+package com.keroles.datastructures;
 
 public class MyQueue {
     public int front,rear;
